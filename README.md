@@ -1,7 +1,5 @@
 # teejaydub.github.io
-The title is a lie. Don't read me! Yet.
 
-Well, I suppose you could read a little of me.
+I'm using this to host the usual hodgepodge of contributions to the world.
 
-No, I changed my mind - please don't read any of this at all.
-Or even any of this.
+Most of my work is on propietary source, but I generally get permission to reserve copyright and freely license the completely generic and resuable bits.
